@@ -9,4 +9,5 @@ Different version of our code, main/master is the public/user accesed one and we
 When you push one branch's code to another
 ## Meaning of -u in git push -u origin main
 Allows to push code to our main branch from our local branch without having to rewrite which branch it is (main/master)
-
+## Tags
+Allows to make a commit where/when the branch is stable 
