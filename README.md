@@ -11,3 +11,4 @@ When you push one branch's code to another
 Allows to push code to our main branch from our local branch without having to rewrite which branch it is (main/master)
 ## Tags
 Allows to make a commit where/when the branch is stable 
+I WANT CONFLICTTT 
