@@ -13,3 +13,4 @@ Allows to push code to our main branch from our local branch without having to r
 Allows to make a commit where/when the branch is stable 
 I WANT CONFLICTTT AND I.WILL.HAVE.IT!!!! 
 ## Gitignore is pretty cool 
+testing
